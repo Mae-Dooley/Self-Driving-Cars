@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 6192e995d7d69a2458c8e1d0938fec99
+timeCreated: 1465689971
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 64841
+  packageName: StoneWalls Normal Maps
+  packageVersion: 1.0
+  assetPath: Assets/StoneWalls/Materials/phong2SG.mat
+  uploadId: 122130
